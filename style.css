@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #000;
+  color: #f0f0f0;
+}
+
+nav {
+  background-color: #111;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #f0f0f0;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #00ffff;
+}
+
+section {
+  padding: 40px;
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  color: #00ffff;
+  text-align: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #222;
+  color: #00ffff;
+}
+ul li {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+h2, h3 {
+  color: #00ffff; /* Or any color you prefer */
+  text-align: center;
+}
+.career-objective {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.6;
+  text-align: justify;
+}
+.career-objective {
+  font-size: 16px;
+  width: 80%; /* Adjust width to control line wrapping */
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.5;
+}
+.career-objective {
+  font-size: 18px;
+  width: 65%;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.2;
+}
+li span {
+  font-weight: bold;
+  color: #0077b6; /* Optional: pick a color that matches your theme */
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #1e1d1d;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /* makes it circular */
+  object-fit: cover;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.3); /* adds shadow */
+}
+ul {
+  list-style-type: none; /* removes bullets */
+  padding: 0;            /* removes left extra space */
+  margin: 0;
+}
+
